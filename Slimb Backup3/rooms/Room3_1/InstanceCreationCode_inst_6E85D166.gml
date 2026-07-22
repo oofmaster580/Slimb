@@ -1,0 +1,1 @@
+swingSpeed = ceil(random_range(1, 3))

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"justunpausethegamealready_1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":44.307686,
+  "exportDir":"",
+  "name":"justunpausethegamealready_1",
+  "parent":{
+    "name":"Themes",
+    "path":"folders/Sounds/Themes.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"justunpausethegamealready_1.wav",
+  "volume":1.0,
+}

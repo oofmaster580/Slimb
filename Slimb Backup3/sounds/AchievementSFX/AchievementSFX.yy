@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"AchievementSFX",
+  "audioGroupId":{
+    "name":"audiogroup1",
+    "path":"audiogroups/audiogroup1",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.7167346,
+  "exportDir":"",
+  "name":"AchievementSFX",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"AchievementSFX.mp3",
+  "volume":1.0,
+}
